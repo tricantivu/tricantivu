@@ -8,3 +8,6 @@ My interests are:
 * \*NIX like systems
 * [Ricing](https://www.reddit.com/r/unixporn/wiki/themeing/dictionary#wiki_rice) 
 * Shell scripting
+
+
+![Image1](https://raw.githubusercontent.com/tricantivu/tricantivu/main/img/desktop.png)
